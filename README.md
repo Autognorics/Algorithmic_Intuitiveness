@@ -1,5 +1,5 @@
-![xyz](GNOS.jpg)
-# AutoGnorics: The Science of Engineered Life Forms 
+![Autognorics](gnorics.jpg)
+# Algorithmic Intuitiveness 
 [HOME](https://autognorics.github.io/) 
 
 As part of a paper originally published in 2k and revised several times due to new discoveries and fresh ideas uncovered in the Bowlingual Experiment Research dubbed ZERO, some of its findings, in particular the knowledge behind Aneural Consciousness, Intuitive Objects (IOs), and Embedded Inscriptions (EIs), are shared in this article.
