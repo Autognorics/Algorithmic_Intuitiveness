@@ -1,4 +1,3 @@
-# Algorithmic_Intuitiveness
 ![xyz](GNOS.jpg)
 # AutoGnorics: The Science of Engineered Life Forms 
 [HOME](https://autognorics.github.io/) 
