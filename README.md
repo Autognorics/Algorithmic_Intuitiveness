@@ -19,4 +19,4 @@ On the next page, The Robot who materialized information is presented. The topic
 On another note, the Bowlingual Experiment is about an Alaskan Malamute who was spatially tested to the Codexation Dilemma. It was also developed to design a Bark to Word or B2W translator between dogs and humans. In this exploratory endeavor, my four-legged best friend name Zero was the specimen  Afterwards, another dog, a chihuahua named Peanut was introduced in the controlled environment with an objective to reinvestigate and reconcile the findings uncovered in the Caveman in the Box Trilogy.  No animals in this experiment were harmed.
 
 
-"Sequential Instructions give rise to Logical Experiences." ~ Joey Lawsin
+> "Sequential Instructions give rise to Logical Experiences." ~ Joey Lawsin
